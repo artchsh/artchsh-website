@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Skyler's server",
+            "address": "https://anisette-v3-server-ksyb.onrender.com"
+        }
+    ]
+}
